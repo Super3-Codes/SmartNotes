@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name = "backgroundColor">#fbfcff</color>
+    <color name = "cardBackgroundColor">#ffffff</color>
+    <color name = "accentColor">#6273ed</color>
+</resources>
